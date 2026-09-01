@@ -4,11 +4,15 @@
 
 # Goal
 To analyze coffee shop sales in order to obtain useful insights that can support data-driven decisions or strategies, based on a dashboard created using Excel.
+
 # Objective
 1. Perform data cleaning, such as handling duplicate records and null values.
 2. Conduct feature engineering by creating new variables, such as month name, day name, and customer arrival hour.
 3. Perform several analyses using Pivot Tables.
 4. Create a Coffee Shop Sales dashboard to provide a clear overview of the coffee shop’s performance.
+
+# Tools
+Microsoft Excel 2013
 
 # Dashboard
 ![Alt Link](https://github.com/Yogaaprila/coffe-shop-sales-dashboard-excel/blob/main/pictures/dashboard_1.png)
