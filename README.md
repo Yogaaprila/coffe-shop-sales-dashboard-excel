@@ -18,7 +18,7 @@ Microsoft Excel 2013
 ![Alt Link](https://github.com/Yogaaprila/coffe-shop-sales-dashboard-excel/blob/main/pictures/dashboard_1.png)
 
 # Insight
-1. The total number of transactions and total revenue obtained from January 2023 to June 2026 are 149,116 transactions and $698,812.
+1. The total number of transactions and total revenue obtained from January 2023 to June 2023 are 149,116 transactions and $698,812.
 2. Total revenue from January 2023 to June showed a positive upward trend, despite a slight decline from January to February.
 3. The highest number of transactions occurred at 8 AM, 9 AM, and 10 AM, while the lowest number of transactions occurred at 8 PM.
 4. The total number of transactions by day of the week is relatively balanced, averaging around 21,000 transactions per day.
